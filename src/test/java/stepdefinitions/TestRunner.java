@@ -13,6 +13,6 @@ import io.cucumber.junit.CucumberOptions;
     tags = {"@Sanity"},
     glue = { "stepdefinitions" }
     )
-public class SwiggyTestRunner {
+public class TestRunner {
 
 }
